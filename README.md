@@ -10,4 +10,4 @@
 <img src="https://github.com/iagofouletto/easy-shopping/blob/main/img/easy-shopping-desktop.jpeg?raw=true" />
 <br>
 <p>from mobile</p>
-<img src="" />
+<img src="https://github.com/iagofouletto/easy-shopping/blob/main/img/easy-shooping-mobile.png?raw=true" />
